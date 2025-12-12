@@ -1,0 +1,7 @@
+{
+  "name": "VitalTrack Health Manager",
+  "description": "A comprehensive personal health management application for tracking checkups, daily wellness tasks, and health metrics with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
