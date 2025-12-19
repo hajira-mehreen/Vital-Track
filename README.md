@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+VitalTrack – Health Manager
 
-# Run and deploy your AI Studio app
+VitalTrack is a simple and user-friendly personal health management application that helps users track daily health data, regular checkups, tasks, and notes in one place.
 
-This contains everything you need to run your app locally.
+The application is designed for normal users to manage health routines easily without medical complexity.
 
-View your app in AI Studio: https://ai.studio/apps/drive/13v7hJImVMpeyyamZCFVm3C4hKrlctt-D
+Features
 
-## Run Locally
+Store regular health checkup details such as blood pressure, sugar levels, weight, and temperature
 
-**Prerequisites:**  Node.js
+Add daily health notes and personal observations
 
+Manage health-related tasks and routines
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Track weight changes over time
+
+Clean and easy-to-use interface suitable for all users
+
+Use Cases
+
+Daily personal health tracking
+
+Routine medical checkup management
